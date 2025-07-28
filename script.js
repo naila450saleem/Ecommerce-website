@@ -72,14 +72,14 @@ function toggleMenu() {
 // Slider Data with separate mobile images
 const slidesData = [
   {
-    image: 'assets/frame1.jpg',
-    mobileImage: 'assets/frame-1.jpg',
+    image: 'assets/Frame1.jpg',
+    mobileImage: 'assets/Frame-1.jpg',
     titleSmall: 'Super Beauty',
     titleBig: 'Basic Care and Guidelines'
   },
   {
-    image: 'assets/frame2.jpg',
-    mobileImage: 'assets/frame-2.jpg',
+    image: 'assets/Frame2.jpg',
+    mobileImage: 'assets/Frame-2.jpg',
     titleSmall: 'Healthy Skin',
     titleBig: 'Essential Care and Tips'
   }
