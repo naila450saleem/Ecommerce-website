@@ -1,12 +1,12 @@
 // Slider Data
 const slidesData = [
   {
-    image: './assets/Frame1.jpg',
+    image: './assets/frame1.jpg',
     titleSmall: 'Super Beauty',
     titleBig: 'Basic Care and Guidelines'
   },
   {
-    image: './assets/Frame2.jpg',
+    image: './assets/frame2.jpg',
     titleSmall: 'Healthy Skin',
     titleBig: 'Essential Care and Tips'
   }
