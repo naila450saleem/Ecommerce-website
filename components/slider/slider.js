@@ -1,12 +1,12 @@
 // Slider Data
 const slidesData = [
   {
-    image: '/Ecomerece-website/assets/Frame1.jpg',
+    image: './assets/Frame1.jpg',
     titleSmall: 'Super Beauty',
     titleBig: 'Basic Care and Guidelines'
   },
   {
-    image: '/Ecomerece-website/assets/Frame2.jpg',
+    image: './assets/Frame2.jpg',
     titleSmall: 'Healthy Skin',
     titleBig: 'Essential Care and Tips'
   }
